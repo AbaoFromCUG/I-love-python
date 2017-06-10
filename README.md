@@ -35,3 +35,10 @@ this reponsitory is for python or Jupyder
 ### 开始了深入的爬虫学习
 在某网站上爬下了约300张的图片，尽管设置了timeout，但是貌似jupyter到最后仍然挂了
 <img src="./status.png">
+
+
+### 掉入数据挖掘的坑
+ 无聊的时候就是喜欢不停的尝试新的东西，
+#### 安装Numpy(含有mkl)，Scipy，以及scikit-learn等轮子，建议去http://www.lfd.uci.edu/~gohlke/pythonlibs/ 下载对于文件，
+然后本地用pip安装，注意路径，还有就是32位的选择32，64位的选择amd64的，这是pip 或者easy_install的分发源头（我是这么想的）
+参考了http://www.cnblogs.com/LuffySir/p/6054238.html 感谢原作者，通俗易懂，当然StackOverflow也有讲这个，奈何理解力有限
