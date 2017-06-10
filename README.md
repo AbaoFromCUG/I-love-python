@@ -31,3 +31,7 @@ this reponsitory is for python or Jupyder
 
 ### 新开始学的爬虫（貌似之前学了爬虫但是中途跑丢了）
 这次是我第一次用python3写的东西，天啊感觉python3和2的差距好大，之前的东西都要修改了大概·
+
+### 开始了深入的爬虫学习
+在某网站上爬下了约300张的图片，尽管设置了timeout，但是貌似jupyter到最后仍然挂了
+<img src="./status.png">
